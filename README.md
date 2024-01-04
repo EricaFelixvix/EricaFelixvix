@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EricaFelixvix
-- 👀 I’m interested in Desenvolvimento Python e Qualidade de software
-- 🌱 I’m currently learning Python, Banco de dados MySql, Git GitHub, testes...
-- 💞️ I’m looking to collaborate on desenvolvimento e qualidade de software
+- 👀 I’m interested in Desenvolvimento Python
+- 🌱 I’m currently learning Python, Banco de dados MySql, Git GitHub...
+- 💞️ I’m looking to collaborate on desenvolvimento 
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/vixerica/
 
 <!---
